@@ -23,4 +23,4 @@ kablosuzkedi Ürün ekleme uygulaması
 
 # Demo
 
-[Demo Linki](https://haktantekin.com/projects/vue-monster-kill-game/)
+[Demo Linki](https://haktantekin.com/projects/vue-product-add/)
